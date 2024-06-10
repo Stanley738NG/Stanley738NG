@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center"> My name is Stanislav 👨‍💻  🚀</div>  
+Hi 👋 My name is Stanley738NG
+=============================
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
