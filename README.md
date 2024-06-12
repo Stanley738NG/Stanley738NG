@@ -5,7 +5,8 @@
 
 Hi 👋 My name is Stanislav
 =============================
-  
+QA
+--  
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
