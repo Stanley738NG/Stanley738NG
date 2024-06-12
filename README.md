@@ -39,7 +39,7 @@ Hi 👋 My name is Stanislav
 
 <br/>  
  
-## Github Stats  
+## <b>My GitHub Stats</b>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Stanley738NG&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
