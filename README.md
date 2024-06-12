@@ -12,10 +12,9 @@ QA
   
 
 - 🌱 I’m currently learning   
+    
   
-
--   
-  
+*  I'm based in Russia, Moscow 
 
 -   
   
