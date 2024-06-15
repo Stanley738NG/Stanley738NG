@@ -3,7 +3,7 @@
 </div>  
   
 
-Hi 👋 My name is Stanislav
+Hi 👋 My name is Stanislav 🔧 💡
 =============================
 QA
 --  
