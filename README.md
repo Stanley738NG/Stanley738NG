@@ -77,4 +77,4 @@ You can click the Preview link to take a look at your changes.
 [![trophy](https://github-profile-trophy.vercel.app/?username=anuraghazra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://Stanley738NG.com/ghpvc/?username=your-github-username&color=lightgrey)
-![](https://Stanley738NG.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://Stanley738NG.com/ghpvc/?username=your-github-username&label=plastic)
