@@ -1,6 +1,5 @@
 <div id="header" align="center">
-
-<img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif?cid=ecf05e47t8b8tokt909mwlo3vdp2o4duzdj7t2afqo7y6p15&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRoZ3V3d3piaGR6MGh3ZWpld2dhY3BqN3FkOGQ4dG1wYzBnejBidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
   
 
@@ -56,29 +55,16 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=https://github.com/Stanley738NG&&style=flat-square" align="center" />
-</div>  
-  
-
+   
 <br/>  
 
 <div align="center"></div>
 <br />
 
 <div id="header" align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRoZ3V3d3piaGR6MGh3ZWpld2dhY3BqN3FkOGQ4dG1wYzBnejBidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif?cid=ecf05e47t8b8tokt909mwlo3vdp2o4duzdj7t2afqo7y6p15&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 </div>
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-- 👋 Hi, I’m @Stanley738NG
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Stanley738NG/Stanley738NG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
