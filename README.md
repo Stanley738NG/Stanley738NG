@@ -1,7 +1,7 @@
-<div align="center">
+<div id="header" align="center">
 
-<img src="src/images/logo.png" height="80" />
-</div>  
+<img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif?cid=ecf05e47t8b8tokt909mwlo3vdp2o4duzdj7t2afqo7y6p15&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
+</div>
   
 
 Hi 👋 My name is Stanislav 🔧 💡
