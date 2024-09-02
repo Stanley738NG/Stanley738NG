@@ -5,6 +5,10 @@
 
 Hi 👋 My name is Stanislav 🔧 💡
 =============================
+<div id="header" align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F4MDc0bW9rNnpnYnhkY2FvZ21odGwxbWlscWI1eHR0NHIyNTNtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JOamEbyqLENSKitMHi/giphy.gif"/>
+</div>
+
 QA
 --  
 
