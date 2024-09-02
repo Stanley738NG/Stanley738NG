@@ -74,7 +74,7 @@ If things goes well, this section should automatically be replaced by a list of 
 Stanley738NG/Stanley738NG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-markdown
 [![trophy](https://github-profile-trophy.vercel.app/?username=anuraghazra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://Stanley738NG.com/ghpvc/?username=your-github-username&color=lightgrey)
+![](https://Stanley738NG.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
