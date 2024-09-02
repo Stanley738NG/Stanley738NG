@@ -67,6 +67,9 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center"></div>
 <br />
 
+<div id="header" align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRoZ3V3d3piaGR6MGh3ZWpld2dhY3BqN3FkOGQ4dG1wYzBnejBidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 - 👋 Hi, I’m @Stanley738NG
